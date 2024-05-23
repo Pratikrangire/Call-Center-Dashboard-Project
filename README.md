@@ -16,7 +16,7 @@ The Call Center Dashboard Project is an Excel-based tool designed to monitor and
 -	Checkboxes: Toggle visibility of sections.
 -	Gauge Chart: Overall satisfaction score.
 -	Column Chart: Call abandon rate by department.
-How to Use
+## How to Use
 1.	Download the Excel file from the repository.
 2.	Open the file in Excel.
 3.	Use the checkboxes to customize your view.
