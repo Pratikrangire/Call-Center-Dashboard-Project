@@ -1,6 +1,6 @@
 # Call-Center-Dashboard-Project
 
-![Call-Center-Dashboard-img](https://github.com/prateekrangire/Call-Center-Dashboard-Project/assets/135497067/826ecd17-1781-4f6d-9b46-94bf65e7eda3)
+![Dashboard](https://github.com/Pratikrangire/Call-Center-Dashboard-Project/assets/135497067/d655fec5-0032-423f-9dcc-05d47bf887b1)
 
 ## Description
 
